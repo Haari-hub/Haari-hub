@@ -38,7 +38,7 @@ Currently focused on **Bank Connect** product, analyzing bank statements and fin
 </div>
 
 ### 📚 Expanding Horizons:
-PySpark • DataBricks • Machine Learning • Data Modelling • Data Warehousing • Cloud Technologies
+PySpark • DataBricks • Data Warehousing • Cloud Technologies
 
 ---
 

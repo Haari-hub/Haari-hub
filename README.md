@@ -6,21 +6,34 @@
 
 ---
 
-## 👨‍💼 About Me
+##👨‍💼 About Me
 
-**Data Quality Analyst** at FinBox with 9+ months of hands-on experience in financial data analysis, ETL processes, and transaction intelligence. I specialize in extracting, validating, and transforming complex financial datasets to support data-driven lending decisions for NBFCs.
+Data Analyst with around 10 months of experience in fintech, specializing in turning large, messy datasets into clean, reliable, decision-ready insights. At FinBox I owned data quality for the Bank Connect product — validating and transforming bank-statement and transaction data to support lending decisions for NBFCs.
 
-Currently focused on **Bank Connect** product, analyzing bank statements and financial transactions with precision. I'm passionate about building scalable data solutions and continuously expanding expertise in Cloud technologies, Data Warehousing, and Data Pipelines.
+I work hands-on across SQL, Python, and Power BI, with a strong focus on data accuracy, automation, and communicating findings clearly to stakeholders. I'm currently open to Data Analyst roles and continuing to deepen my skills in advanced SQL analytics and data engineering.
 
-### 🎯 What I Do Best:
-
-- 📊 **Financial Data Analysis** — Extract, validate, and analyze bank statements (PDF & AA formats) using SQL and Python
-- 🔧 **ETL & Data Engineering** — Design and optimize transaction classification logic using Python and Regex; build automated data pipelines
-- 📈 **Data Quality & Insights** — Perform EDA, identify data inconsistencies, and develop solutions that improve data accuracy by 20%+
-- 🛠️ **API & System Integration** — Use Postman for data validation; collaborate with engineering teams via JIRA for seamless issue resolution
-- 💡 **Problem Solving** — Root-cause analysis on production issues; translate business requirements into technical solutions
-
+### 🎯 What I Do
+📊 Data Analysis — Extract, clean, validate and analyze large datasets with SQL and Python
+🔧 ETL & Automation — Build transaction-classification logic and automated data pipelines (Python, Regex)
+📈 BI & Reporting — Build Power BI dashboards and reports that drive decisions
+🧪 Data Quality — EDA, root-cause analysis and validation that lifted data accuracy from 64% to 85%
+💡 Collaboration — Work across business, engineering (JIRA) and client teams to deliver reliable data
 ---
+
+
+### 🚀 Featured Projects
+
+📦 E-Commerce Analytics — PostgreSQL
+
+End-to-end advanced SQL analytics on a realistic online-retail dataset (20K customers · 43K orders · 370K web events). Covers cohort retention, RFM segmentation, funnel conversion, customer LTV, market-basket and churn — on a clean star schema with data-quality checks run before every analysis.
+
+PostgreSQL · Advanced SQL · Window Functions · CTEs · Star Schema
+
+🏦 Indian NBFC Portfolio & Asset-Quality Analytics
+
+Python (pandas) ETL pipeline with 16 automated data-quality checks — cleaned 4,600+ rows into 4,189 verified records. Modeled a star schema and built a 3-page Power BI dashboard surfacing GNPA falling from 6.4% to 3.1% and the highest-risk segments.
+
+Python · Pandas · Power BI · DAX · ETL
 
 ## 🛠️ Tech Stack
 
@@ -33,7 +46,6 @@ Currently focused on **Bank Connect** product, analyzing bank statements and fin
 ![Regex](https://img.shields.io/badge/Regex-CC6633?style=for-the-badge&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 </div>
 

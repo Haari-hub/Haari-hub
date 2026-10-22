@@ -14,13 +14,9 @@ I work hands-on across SQL, Python, and Power BI, with a strong focus on data ac
 ### 🎯 What I Do
 
 📊 Data Analysis — Extract, clean, validate and analyze large datasets with SQL and Python.
-
 🔧 ETL & Automation — Build transaction-classification logic and automated data pipelines (Python, Regex).
-
 📈 BI & Reporting — Build Power BI dashboards and reports that drive decisions.
-
 🧪 Data Quality — EDA, root-cause analysis and validation that lifted data accuracy from 64% to 85%.
-
 💡 Collaboration — Work across business, engineering (JIRA) and client teams to deliver reliable data.
 
 
@@ -67,7 +63,7 @@ PySpark • DataBricks • Data Warehousing • Cloud Technologies
 
 ## 💼 Professional Experience
 
-**Data Quality Analyst @ FinBox** | Jan 2026 - Present
+**Data Quality Analyst @ FinBox** | Jan 2026 - Oct 2026
 - Analyze complex financial datasets from bank statements and Account Aggregator systems
 - Built intelligent transaction classification logic improving data accuracy
 - Automated repetitive validation tasks, reducing manual effort by 40%+

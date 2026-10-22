@@ -6,8 +6,7 @@
 
 ---
 
-##👨‍💼 About Me
-
+### 👨‍💼 About Me
 Data Analyst with around 10 months of experience in fintech, specializing in turning large, messy datasets into clean, reliable, decision-ready insights. At FinBox I owned data quality for the Bank Connect product — validating and transforming bank-statement and transaction data to support lending decisions for NBFCs.
 
 I work hands-on across SQL, Python, and Power BI, with a strong focus on data accuracy, automation, and communicating findings clearly to stakeholders. I'm currently open to Data Analyst roles and continuing to deepen my skills in advanced SQL analytics and data engineering.
@@ -22,7 +21,6 @@ I work hands-on across SQL, Python, and Power BI, with a strong focus on data ac
 
 
 ### 🚀 Featured Projects
-
 📦 E-Commerce Analytics — PostgreSQL
 
 End-to-end advanced SQL analytics on a realistic online-retail dataset (20K customers · 43K orders · 370K web events). Covers cohort retention, RFM segmentation, funnel conversion, customer LTV, market-basket and churn — on a clean star schema with data-quality checks run before every analysis.

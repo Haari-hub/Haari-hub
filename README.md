@@ -12,6 +12,7 @@ Data Analyst with around 10 months of experience in fintech, specializing in tur
 I work hands-on across SQL, Python, and Power BI, with a strong focus on data accuracy, automation, and communicating findings clearly to stakeholders. I'm currently open to Data Analyst roles and continuing to deepen my skills in advanced SQL analytics and data engineering.
 
 ### 🎯 What I Do
+
 📊 Data Analysis — Extract, clean, validate and analyze large datasets with SQL and Python
 🔧 ETL & Automation — Build transaction-classification logic and automated data pipelines (Python, Regex)
 📈 BI & Reporting — Build Power BI dashboards and reports that drive decisions

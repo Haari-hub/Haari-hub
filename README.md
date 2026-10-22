@@ -8,7 +8,7 @@
 
 ## 👨‍💼 About Me
 
-**Data Quality Analyst** at FinBox with 8+ months of hands-on experience in financial data analysis, ETL processes, and transaction intelligence. I specialize in extracting, validating, and transforming complex financial datasets to support data-driven lending decisions for NBFCs.
+**Data Quality Analyst** at FinBox with 9+ months of hands-on experience in financial data analysis, ETL processes, and transaction intelligence. I specialize in extracting, validating, and transforming complex financial datasets to support data-driven lending decisions for NBFCs.
 
 Currently focused on **Bank Connect** product, analyzing bank statements and financial transactions with precision. I'm passionate about building scalable data solutions and continuously expanding expertise in Cloud technologies, Data Warehousing, and Data Pipelines.
 
